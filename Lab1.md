@@ -15,7 +15,22 @@
 ## วิธีการทำการทดลอง
 1. ต่อmicrocontroller เข้ากับ serial port และต่อเข้ากับusbเข้ากับcomputer
 ![image](https://user-images.githubusercontent.com/80880831/112207698-08521e00-8c4a-11eb-91ac-cbd2f51c7ba8.jpeg)
-3.
+2. ใช้โปรแกรมตัวอย่างที่
+   * cd pattani
+   * cd01_serial-Monitor
+   * vi src/main.cpp
+![image](https://user-images.githubusercontent.com/80880831/112208268-c1b0f380-8c4a-11eb-9dcd-1879c467f325.png)
+3. เช็คplatform
+   * vi platformio.ini
+![image](https://user-images.githubusercontent.com/80880831/112208539-0c327000-8c4b-11eb-97f7-53ddd73a8ea2.png)
+4. upload program ลงใน microcontroller
+   * pio run -t upload
+![image](https://user-images.githubusercontent.com/80880831/112208773-50257500-8c4b-11eb-9f3f-524d79f5eaa6.png)
+5. กดรีเซ็ตเพื่อเคลียร์โปรแกรมเก่าในmicrocontroller
+6. เมื่อrun program เสร็จ จะได้
+![image](https://user-images.githubusercontent.com/80880831/112209081-a8f50d80-8c4b-11eb-9762-929f1a53e0bb.png)
+ขณะรัน ถ้ากดปุ่มรีเซ็ต จะเริ่มนับ 1 ใหม่
+
 ## การบันทึกผลการทดลอง
 
 ## อภิปรายผลการทดลอง
