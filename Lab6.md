@@ -12,7 +12,7 @@
 * [microcontroller คือ](https://thiti.dev/blog/28/)
 * [microcontroller esp 01](http://fitrox.lnwshop.com/article/28/esp8266-ตอนที่-1-รู้จักกับ-esp8266)
 ## วิธีการทำการทดลอง
-1. ต่อ microcontroller เข้ากับ usb toserial port และต่อเข้ากับ usb เข้ากับ computer
+1. ต่อ microcontroller เข้ากับ usb to serial port และต่อเข้ากับ usb เข้ากับ computer
 ![image](https://user-images.githubusercontent.com/80880831/112277782-abd81880-8cb4-11eb-83b8-7397ba5c84fc.jpeg)
 2. cd 06_Wifi-AP-Web-Server
 3. vi src/main.cpp
