@@ -14,11 +14,11 @@
 * [microcontroller คือ](https://thiti.dev/blog/28/)
 * [microcontroller esp 01](http://fitrox.lnwshop.com/article/28/esp8266-ตอนที่-1-รู้จักกับ-esp8266)
 ## วิธีการทำการทดลอง
-1. ต่อ microcontroller เข้ากับ usb toserial port และต่อเข้ากับ usb เข้ากับ computer
+1. ต่อ microcontroller เข้ากับ usb to serial port และต่อเข้ากับ usb เข้ากับ computer
 ![image](https://user-images.githubusercontent.com/80880831/112258531-3b6fce00-8c99-11eb-96a2-7f1c3798b29f.jpeg)
 2. ใช้โปรแกรมตัวอย่างที่
    * cd pattani
-   * cd01_serial-Monitor
+   * cd 01_serial-Monitor
    * vi src/main.cpp
 ![image](https://user-images.githubusercontent.com/80880831/112255367-9f43c800-8c94-11eb-899c-66359b315487.jpeg)
 3. เช็คplatform
