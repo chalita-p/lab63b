@@ -1,8 +1,13 @@
 # การทดลองที่ 3 เรื่อง การเขียนโปรแกรมเอ้าพุทสัญญาณดิจิทัล
 ## วัตถุประสงค์
-ศึกษาการส่งออกสัญญาณของmicrocontroller
+1. ศึกษาการส่งออกสัญญาณของmicrocontroller
 ## อุปกรณ์ที่ใช้
-
+1. microcontroller esp01
+2. usb to serial port
+3. usb
+4. computer or notbook ไว้เขียนโปรแกรม
+5. adapter module
+6. relay module
 ## ศึกษาข้อมูลเบื้องต้น
 
 ## วิธีการทำการทดลอง
