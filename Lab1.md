@@ -20,7 +20,7 @@
    * cd pattani
    * cd01_serial-Monitor
    * vi src/main.cpp
-![image](https://user-images.githubusercontent.com/80880831/112208268-c1b0f380-8c4a-11eb-9dcd-1879c467f325.png)
+![image](https://user-images.githubusercontent.com/80880831/112255367-9f43c800-8c94-11eb-899c-66359b315487.jpeg)
 3. เช็คplatform
    * vi platformio.ini
 ![image](https://user-images.githubusercontent.com/80880831/112208539-0c327000-8c4b-11eb-97f7-53ddd73a8ea2.png)
