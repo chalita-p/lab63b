@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/80880831/112255367-9f43c800-8c94-11eb-899c-66359b315487.jpeg)
 3. เช็คplatform
    * vi platformio.ini
-![image](https://user-images.githubusercontent.com/80880831/112208539-0c327000-8c4b-11eb-97f7-53ddd73a8ea2.png)
+![image](https://user-images.githubusercontent.com/80880831/112255508-ea5ddb00-8c94-11eb-9c64-3dcff4c8d308.jpeg)
 4. upload program ลงใน microcontroller
    * pio run -t upload
 ![image](https://user-images.githubusercontent.com/80880831/112208773-50257500-8c4b-11eb-9f3f-524d79f5eaa6.png)
@@ -36,5 +36,5 @@
 ## อภิปรายผลการทดลอง
 โปรแกรมจะนับเลขไปเรื่อยๆ เริ่มจาก 1 จนกว่าจะกดปุ่มรีเซ็ตที่ตัวmicrocontroller จึงจะเริ่มนับ 1 ใหม่อีกครั้ง ไปเรื่อยๆ
 ## คำถามหลังการทดลอง
-ถ้าต้องการให้โปรแกรมนับเลขเพิ่มที่ละ 2 เช่น 2,4,6,8,...
- * แก้codeของรูปภาพวิธีการทำการทดลองภาพที่2 จาก cnt++; เป็น cnt = cnt+2;
+ถ้าต้องการตรวจสอบว่าmicrocontrollerที่ใช้อยู่เป็นร่นไหน สามารถเช็คได้อย่างไ
+ * ใช้คำสั่ง vi platformio.ini ในการเขียนโปรแกรมมเพื่อเช็ค
