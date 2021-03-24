@@ -14,7 +14,7 @@
 * [microcontroller คือ](https://thiti.dev/blog/28/)
 * [microcontroller esp 01](http://fitrox.lnwshop.com/article/28/esp8266-ตอนที่-1-รู้จักกับ-esp8266)
 ## วิธีการทำการทดลอง
-1. ต่อmicrocontroller เข้ากับ serial port และต่อเข้ากับusbเข้ากับcomputer
+1. ต่อ microcontroller เข้ากับ usb toserial port และต่อเข้ากับ usb เข้ากับ computer
 ![image](https://user-images.githubusercontent.com/80880831/112207698-08521e00-8c4a-11eb-91ac-cbd2f51c7ba8.jpeg)
 2. ใช้โปรแกรมตัวอย่างที่
    * cd pattani
