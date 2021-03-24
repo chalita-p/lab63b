@@ -12,7 +12,7 @@
 * [microcontroller esp 01](http://fitrox.lnwshop.com/article/28/esp8266-ตอนที่-1-รู้จักกับ-esp8266)
 ## วิธีการทำการทดลอง
 1. ต่อ microcontroller เข้ากับ usb toserial port และต่อเข้ากับ usb เข้ากับ computer
-2. cd 03_Output-Port
+2. cd 02_ScanWifi
 ![image](https://user-images.githubusercontent.com/80880831/112257150-f34fac00-8c96-11eb-8cf1-2af648d0ee9b.jpeg)
 3. vi src/main.cpp
 
