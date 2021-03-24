@@ -22,6 +22,7 @@
 6. เมื่อrun program เสร็จ
 7. pio device monitor เพื่อให้หน้าจอcompter แสดงผล
 ![image](https://user-images.githubusercontent.com/80880831/112257650-ce0f6d80-8c97-11eb-964a-9a1e125db422.jpeg)
+ขณะรัน ถ้ากดปุ่มรีเซ็ต จะเริ่มนับ ค้นหา wifi ใหม่อีกครั้ง
 ## การบันทึกผลการทดลอง
 
 ## อภิปรายผลการทดลอง
