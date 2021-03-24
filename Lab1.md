@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/80880831/112255508-ea5ddb00-8c94-11eb-9c64-3dcff4c8d308.jpeg)
 4. upload program ลงใน microcontroller
    * pio run -t upload
-![image](https://user-images.githubusercontent.com/80880831/112208773-50257500-8c4b-11eb-9f3f-524d79f5eaa6.png)
+![image](https://user-images.githubusercontent.com/80880831/112258737-9275a300-8c99-11eb-8560-60dc93eb9ce0.jpeg)
 5. กดปุ่มport0(ปุ่มสีดำ)และปุ่มีเซ็ต(ปุ่มสีแดง)เพื่อรีเซ็ตเพื่อเคลียร์โปรแกรมเก่าในmicrocontroller
 6. เมื่อrun program เสร็จ
 7. pio device monitor เพื่อให้หน้าจอcompter แสดงผล 
