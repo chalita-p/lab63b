@@ -18,7 +18,8 @@
 ![image](https://user-images.githubusercontent.com/80880831/112276424-4e8f9780-8cb3-11eb-8c53-342653b99b35.jpeg)
 4. pio run -t upload
 5. กดปุ่มport0(ปุ่มสีดำ)และปุ่มีเซ็ต(ปุ่มสีแดง)เพื่อรีเซ็ตเพื่อเคลียร์โปรแกรมเก่าในmicrocontroller
-6. เมื่อrun program เสร็จ ให้เข้า web browser เพื่อตรวจสอบว่าเชื่อต่อ wifi ได้
+6. pio device monitor
+7. ให้เข้า web browser เพื่อตรวจสอบว่าเชื่อต่อ wifi ได้
 
 ## การบันทึกผลการทดลอง
 เมื่อรันโปรมแกรมเชื่อต่อwifiสำเร็จ เวลาเข้า browser เพื่อเช็คดูจะขึ้น Hello cnt :
