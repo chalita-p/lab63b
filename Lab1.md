@@ -6,7 +6,7 @@
 3. รู้จักโปรแกรมการนับ
 ## อุปกรณ์ที่ใช้
 1. microcontroller
-2. serial port
+2. usb to serial port
 3. usb
 4. computer or notbook ไว้เขียนโปรแกรม
 ## ศึกษาข้อมูลเบื้องต้น
