@@ -30,7 +30,7 @@
 5. กดปุ่มport0(ปุ่มสีดำ)และปุ่มีเซ็ต(ปุ่มสีแดง)เพื่อรีเซ็ตเพื่อเคลียร์โปรแกรมเก่าในmicrocontroller
 6. เมื่อrun program เสร็จ
 7. pio device monitor เพื่อให้หน้าจอcompter แสดงผล 
-![image](https://user-images.githubusercontent.com/80880831/112209081-a8f50d80-8c4b-11eb-9762-929f1a53e0bb.png)
+![image](https://user-images.githubusercontent.com/80880831/112258852-ca7ce600-8c99-11eb-9367-a359d09ed5de.jpeg)
 ขณะรัน ถ้ากดปุ่มรีเซ็ต จะเริ่มนับ 1 ใหม่
 ## การบันทึกผลการทดลอง
 ![image](https://user-images.githubusercontent.com/80880831/112209687-4d774f80-8c4c-11eb-8c5e-4d5aab8e82e0.jpeg)
