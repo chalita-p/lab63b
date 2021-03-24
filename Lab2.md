@@ -19,10 +19,9 @@
 4. pio run -t upload
 ![image](https://user-images.githubusercontent.com/80880831/112257604-b801ad00-8c97-11eb-923f-02f7731540f3.jpeg)
 5. กดปุ่มport0(ปุ่มสีดำ)และปุ่มีเซ็ต(ปุ่มสีแดง)เพื่อรีเซ็ตเพื่อเคลียร์โปรแกรมเก่าในmicrocontroller
-6. เมื่อrun program เสร็จ จะได้
+6. เมื่อrun program เสร็จ
+7. pio device monitor เพื่อให้หน้าจอcompter แสดงผล
 ![image](https://user-images.githubusercontent.com/80880831/112257650-ce0f6d80-8c97-11eb-964a-9a1e125db422.jpeg)
-7. pio device monitor
-
 ## การบันทึกผลการทดลอง
 
 ## อภิปรายผลการทดลอง
