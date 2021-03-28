@@ -17,15 +17,16 @@
 * [โปรแกรมเปิดปิดไฟ](https://www.myarduino.net/article/410/)
 ## วิธีการทำการทดลอง
 1. ต่อวงจรดังรูป
-(รูป)
+![image](https://user-images.githubusercontent.com/80880831/112741784-be06cf00-8fb2-11eb-978a-cd3fc2381a59.png)
 2. เขียนโปรแกรมดังนี้
-![image](https://user-images.githubusercontent.com/80880831/112741307-d117a000-8fae-11eb-8b1a-b0ef80d6216f.jpeg)
+![image](https://user-images.githubusercontent.com/80880831/112741777-af201c80-8fb2-11eb-997b-929a1293fe39.jpeg)
 3. อัพโหลดโปรแกรมลงในmicrocontroller
 4. ทดสอบการใช้งาน
     1. เปิด Serial Monitor เพื่อตรวจดู ชื่อไวไฟ และ IP address ของ Server 
     2. ตั้งการเชื่อต่อของสัญญาณไวไฟเข้ากับ AP ที่กำหนดไว้
     3. เปิดเว็บเบราว์เซอร์ แล้วเปิดหน้าเพจโดย IP ที่ได้จากข้อ 1
-    (รูป)
+    ![image](https://user-images.githubusercontent.com/80880831/112741797-e1317e80-8fb2-11eb-9229-80a2a83a818c.png)
+    ![image](https://user-images.githubusercontent.com/80880831/112741799-e8588c80-8fb2-11eb-9973-62579f191ed7.png)
 ## การบันทึกผลการทดลอง
 เมื่อกดปุ่มก็จะสามารถควบคุมการเปิดปิดไฟได้
 ## อภิปรายผลการทดลอง
