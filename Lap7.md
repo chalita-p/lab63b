@@ -21,7 +21,9 @@
 2. เขียนโปรแกรมดังนี้
 
 ![image](https://user-images.githubusercontent.com/80880831/112741777-af201c80-8fb2-11eb-997b-929a1293fe39.jpeg)
+
 3. อัพโหลดโปรแกรมลงในmicrocontroller
+
 4. ทดสอบการใช้งาน
     1. เปิด Serial Monitor เพื่อตรวจดู ชื่อไวไฟ และ IP address ของ Server 
     2. ตั้งการเชื่อต่อของสัญญาณไวไฟเข้ากับ AP ที่กำหนดไว้
