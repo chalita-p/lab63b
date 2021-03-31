@@ -19,6 +19,7 @@
 1. ต่อวงจรดังรูป
 ![image](https://user-images.githubusercontent.com/80880831/112741784-be06cf00-8fb2-11eb-978a-cd3fc2381a59.png)
 2. เขียนโปรแกรมดังนี้
+
 ![image](https://user-images.githubusercontent.com/80880831/112741777-af201c80-8fb2-11eb-997b-929a1293fe39.jpeg)
 3. อัพโหลดโปรแกรมลงในmicrocontroller
 4. ทดสอบการใช้งาน
